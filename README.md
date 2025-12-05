@@ -11,7 +11,7 @@
 ---
 
 <h1 align="center">Hi 👋, I'm James Mwendwa</h1>
-<h3 align="center">Android Developer | Network Engineer | Computer Science Student</h3>
+<h3 align="center">Android Developer | Network Engineer </h3>
 
 ---
 
