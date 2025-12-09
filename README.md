@@ -56,7 +56,6 @@ I love exploring the intersection of **mobile development** and **network archit
 ---
 
 ## 🏅 Certifications
-Here are some certifications I'm working on or have completed:
 
 - 📘 **Cisco Certified Network Associate (CCNA)** 
 
@@ -64,14 +63,6 @@ Here are some certifications I'm working on or have completed:
 
 ## 📫 Contact Me  
 📧 **Email:** mwendwajames2004@gmail.com  
-
----
-
-## 🌟 Current Goals  
-- Build production-ready Android apps with Jetpack Compose  
-- Master efficient API communication and offline-first patterns  
-- Learn backend technologies to support mobile networking  
-- Advance deeper into network administration & wireless networking  
 
 ---
 <p align="center"><b>✨ Let's build something great!</b></p>
