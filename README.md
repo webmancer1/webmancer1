@@ -13,14 +13,8 @@
 ## 🚀 About Me
 I'm an **Android Developer** with a strong background in **Networking**.  
 I build mobile apps that communicate efficiently, reliably, and securely.
-
 Experienced in **Kotlin**, **Jetpack Compose**, **API integration**, and modern network protocols.  
 I love exploring the intersection of **mobile development** and **network architecture**.
-
-- 📱 Passionate about Android & Mobile Architecture  
-- 🌐 CCNA-level Networking (Routing, Switching, DNS, DHCP)  
-- 🐧 Linux user & network troubleshooting enthusiast  
-- 📚 Always exploring modern Android frameworks and clean network flows  
 
 ---
 
