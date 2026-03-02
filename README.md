@@ -43,7 +43,7 @@ I love exploring the intersection of **mobile development** and **network archit
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/james-mwendwa-05b995264)
 
-[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mwendwajames2004@gmail.com)
+
 
 ---
 
