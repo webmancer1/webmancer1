@@ -14,7 +14,8 @@
 I'm an **Android Developer** with a strong background in **Networking**.  
 I build mobile apps that communicate efficiently, reliably, and securely.
 Experienced in **Kotlin**, **Jetpack Compose**, **API integration**, and modern network protocols.  
-I love exploring the intersection of **mobile development** and **network architecture**.
+I love exploring the intersection of **mobile development** and **network architecture**. 
+I have an  interest DevOps Engineering .
 
 ---
 
