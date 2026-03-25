@@ -6,7 +6,7 @@
 ---
 
 <h1 align="center">Hi 👋, I'm James Mwendwa</h1>
-<h3 align="center">Android Developer | Network Engineer </h3>
+<h3 align="center">Network Engineer | Android Developer </h3>
 
 ---
 
