@@ -13,9 +13,14 @@
 ## 🚀 About Me
 I'm an **Android Developer** with a strong background in **Networking**.  
 I build mobile apps that communicate efficiently, reliably, and securely.
+
 Experienced in **Kotlin**, **Jetpack Compose**, **API integration**, and modern network protocols.  
-I love exploring the intersection of **mobile development** and **network architecture**. 
-I have an  interest DevOps Engineering .
+I enjoy exploring the intersection of **mobile development**, **network architecture**, and **scalable systems**.
+
+I also have a growing interest in **DevOps Engineering**, focusing on automation and deployment pipelines.
+
+Recently, I've been expanding into **Artificial Intelligence**, with a focus on **agentic coding systems** — building and experimenting with autonomous, tool-using agents that can reason, execute tasks, and interact with real-world systems.  
+I'm particularly interested in leveraging frameworks like **Anti-Gravity** to design adaptive, intelligent workflows and developer tools.
 
 ---
 
@@ -40,13 +45,9 @@ I have an  interest DevOps Engineering .
 - 📘 **Cisco Certified Network Associate (CCNA)** 
 
 ---
+
 ## 🌐 Socials
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/james-mwendwa-05b995264)
 
-
-
 ---
-
-
-
