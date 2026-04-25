@@ -19,7 +19,6 @@ My expertise includes:
 - LAN/WAN technologies and network protocols
 - Network security fundamentals and access control
 - Linux-based server environments and system administration
-- Bash scripting for automation and system tasks
 
 I have hands-on experience working with **Cisco-based environments** and real-world networking scenarios, enabling me to diagnose issues efficiently and build scalable network solutions.
 
@@ -32,7 +31,6 @@ Alongside networking, I build modern Android applications with a focus on **perf
 My development stack includes:
 - **Kotlin** for robust and maintainable code
 - **Jetpack Compose** for modern UI development
-- REST API integration and client-server communication
 - Firebase services for backend support
 - UI/UX design workflows using Figma
 
@@ -43,8 +41,7 @@ I specialize in building apps that integrate cleanly with backend systems and ne
 ## ⚙️ Interests & Emerging Focus
 
 - **DevOps Engineering** – automation, CI/CD, and deployment pipelines  
-- **Artificial Intelligence** – particularly **agentic systems** and autonomous workflows  
-- Exploring frameworks like **Anti-Gravity** to design adaptive, intelligent developer tools  
+- **Artificial Intelligence** – particularly **agentic systems** and autonomous workflows. Exploring frameworks like **Anti-Gravity** to design adaptive, intelligent developer tools  
 
 ---
 
@@ -74,8 +71,3 @@ I specialize in building apps that integrate cleanly with backend systems and ne
 
 ---
 
-## 🌐 Socials
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/james-mwendwa-05b995264)
-
----
