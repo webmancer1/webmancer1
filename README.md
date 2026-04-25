@@ -20,8 +20,6 @@ My expertise includes:
 - Network security fundamentals and access control
 - Linux-based server environments and system administration
 
-I have hands-on experience working with **Cisco-based environments** and real-world networking scenarios, enabling me to diagnose issues efficiently and build scalable network solutions.
-
 ---
 
 ## 📱 Android Development
@@ -33,8 +31,6 @@ My development stack includes:
 - **Jetpack Compose** for modern UI development
 - Firebase services for backend support
 - UI/UX design workflows using Figma
-
-I specialize in building apps that integrate cleanly with backend systems and network services.
 
 ---
 
