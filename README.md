@@ -55,10 +55,6 @@ My development stack includes:
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=webmancer1&theme=tokyonight&hide_border=true" height="165"/>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=webmancer1&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
-
 ---
 
 ## 🏅 Certifications
