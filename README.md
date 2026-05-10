@@ -59,9 +59,10 @@ My development stack includes:
 
 ## 🏅 Certifications
 
-- 📘 **CCNA : Introduction to Networks**  
-https://www.credly.com/badges/fba2e13d-b4ed-4818-86ff-9923069ffb68/public_url
-- 📘 **CCNA : Switching,Routing,and Wireless Essentials
-https://www.credly.com/badges/6a24ba30-d039-440a-b0cc-63273988e44a/public_url
----
+- 📘 **CCNA: Introduction to Networks**  
+  🔗 https://www.credly.com/badges/fba2e13d-b4ed-4818-86ff-9923069ffb68/public_url  
 
+- 📘 **CCNA: Switching, Routing, and Wireless Essentials**  
+  🔗 https://www.credly.com/badges/6a24ba30-d039-440a-b0cc-63273988e44a/public_url  
+
+---
