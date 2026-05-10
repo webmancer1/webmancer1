@@ -59,7 +59,7 @@ My development stack includes:
 
 ## 🏅 Certifications
 
-- 📘 **Cisco Certified Network Associate (CCNA)**  
-
+- 📘 **CCNA : Introduction to Networks**  
+https://www.credly.com/badges/fba2e13d-b4ed-4818-86ff-9923069ffb68/public_url
 ---
 
